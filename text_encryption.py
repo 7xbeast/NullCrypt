@@ -77,7 +77,7 @@ def run_crypto():
 
 # --- UI Setup ---
 root = tk.Tk()
-root.title("Secure Text Encryption Tool")
+root.title("NullCrypt - Secure Text Encryption and Decryption Tool")
 root.geometry("700x600")
 root.configure(bg="#1e1e1e")
 root.resizable(True, True)
